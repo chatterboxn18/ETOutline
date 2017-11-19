@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 14e6a6694460f90408e89acf069a1e21
+timeCreated: 1511048136
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adam Warren pro
+  fontNames:
+  - Adam Warren pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
