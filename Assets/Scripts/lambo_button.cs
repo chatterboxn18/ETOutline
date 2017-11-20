@@ -45,7 +45,6 @@ public class lambo_button : Graphic, IPointerUpHandler, IPointerEnterHandler, IP
 
     void IPointerEnterHandler.OnPointerEnter(PointerEventData eventData)
     {
-        Debug.Log("This doesn't happen");
         if (isDisabled)
             return;
         isHovered = true;

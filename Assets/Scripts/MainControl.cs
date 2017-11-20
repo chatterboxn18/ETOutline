@@ -9,6 +9,10 @@ namespace ETOutline
     {
         public Animator _animator;
 
+        //////Scene Events///////
+
+
+
         //////Button Events////////
         public void BtnEvt_GoToSelection()
         {
