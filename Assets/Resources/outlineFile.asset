@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd2177e8fa11b7f4aabf1fa4a47b69bf, type: 3}
+  m_Name: outlineFile
+  m_EditorClassIdentifier: 
+  sections:
+  - title: Introduction
+    content:
+    - A. Their life
+    - B. Their religious background
+    - C1. Christian background
+    - 1. Their church background
+    - 2. Your testimony
+    - 3. Two diagnostic question
+    - Question 1 - "If you were to die today, are you certain that you would go to
+      heaven?"
+    - Question 2 - "If God were to ask you, "Why should I let you into my heaven?"
+      what would you say?
+    - Repeat and confirm answer
+    - C2. Non-Christian background
+    - 1. Their beliefs
+    - 2. Your testimony
+    - 3. Transition question - "Have you ever looked into what Christianity teaches?"
+  - title: Sin
+    content: []
