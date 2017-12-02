@@ -1197,7 +1197,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 353693609}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 9be8486ec6a69c4458e23bb690bcd01c, type: 2}
   m_CullingMode: 0
@@ -2082,7 +2082,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &592531192
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3266,6 +3266,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectionName: Introduction
   EToutline: {fileID: 11400000, guid: 54f34669ae2446844bd336403becb965, type: 2}
+  panelSize: {fileID: 0}
+  textSample: {fileID: 1909302173754832, guid: fde6c11e86fba4a408982904f5b309d6, type: 2}
 --- !u!1 &1251101246
 GameObject:
   m_ObjectHideFlags: 0
@@ -5917,7 +5919,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1961615947
 RectTransform:
   m_ObjectHideFlags: 0
