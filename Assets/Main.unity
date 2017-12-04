@@ -3267,7 +3267,7 @@ MonoBehaviour:
   selectionName: Introduction
   EToutline: {fileID: 11400000, guid: 54f34669ae2446844bd336403becb965, type: 2}
   panelSize: {fileID: 0}
-  textSample: {fileID: 1909302173754832, guid: fde6c11e86fba4a408982904f5b309d6, type: 2}
+  textSample: {fileID: 1831528724664228, guid: fde6c11e86fba4a408982904f5b309d6, type: 2}
 --- !u!1 &1251101246
 GameObject:
   m_ObjectHideFlags: 0

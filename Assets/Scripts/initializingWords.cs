@@ -43,7 +43,7 @@ public class initializingWords : MonoBehaviour {
             }
             GameObject textObject = GameObject.Instantiate(textSample, transform, false);
             textObject.GetComponent<Text>().text = words[0] + oneLine;
-            textObject.transform.position = new Vector3(0, -40 * j,0);
+            textObject.transform.position = new Vector3(0, -10 * j,0);
         }
 		
 	}
